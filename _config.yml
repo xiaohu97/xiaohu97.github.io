@@ -9,7 +9,7 @@
 title                    : "张晓虎"
 description              : "人形机器人移动操作/电机控制"
 repository               : "xiaohu97/xiaohu97.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
