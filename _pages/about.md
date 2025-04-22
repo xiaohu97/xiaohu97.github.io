@@ -47,7 +47,7 @@ redirect_from:
 ### 英文论文
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS. 2024</div><img src='images/IROS2024_GraphicalAbstract_3405.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- **H. Zhang#, X. Zhang#, J. Cheng, J. Hu, C. Ji, Y. Wang, Y. Jiang, Z. Han, W. Gao* and S. Zhang***  
+- **H. Zhang#,`X. Zhang#`, J. Cheng, J. Hu, C. Ji, Y. Wang, Y. Jiang, Z. Han, W. Gao* and S. Zhang***  
   "Torque Ripple Reduction in Quasi-Direct Drive Motors Through Angle-Based Repetitive Learning Observer and Model Predictive Torque Controller," *2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, pp. XXX-XXX.  
   (机器人顶会，EI)
 </div>
@@ -96,7 +96,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Ind. Informat.</div><img src='images/isa2020.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Song Juncai, Zhao Jiwen, Zhang Xiaohu et al.**  
+- **Song Juncai, Zhao Jiwen,`X. Zhang` et al.**  
   "Accurate Demagnetization Faults Detection of Dual-Sided Permanent Magnet Linear Motor Using Enveloping and Time-Domain Energy Analysis," *IEEE Transactions on Industrial Informatics*, 2020, 16(10): 6334-6346.  
   (中科院 TOP, IF: 11.648)
 
@@ -106,9 +106,9 @@ redirect_from:
 ### 中文论文
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国电机工程学报.</div><img src='images/观测器结构-英文概述.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- **张晓虎, 赵吉文 等**  
+- **`张晓虎`, 赵吉文 等**  
   "基于自适应互联扩展卡尔曼观测器的永磁同步直线电机高精度抗干扰在线多参数辨识," *中国电机工程学报*, 2022, 42(12): 4571-4581.  
-  (中国电机工程学报年度优秀论文（TOP5%），中国知网高影响力论文，EI)  
+  (`中国电机工程学报年度优秀论文（TOP5%）`，`中国知网高影响力论文`，EI)  
 </div>
 </div>
 - *待补充*
@@ -117,17 +117,17 @@ redirect_from:
 ### 专利
 
 - **[P03] 一种腿式机器人的移动控制方法**  
-  高纬，韩震，姜雨彤，岳永铭，张晓虎，王煜，张世武。发明专利，CN202411919748.1，授权日期：2025-01-24，申请日期：2024-12-25。  
+  高纬，韩震，姜雨彤，岳永铭，`张晓虎`，王煜，张世武。发明专利，CN202411919748.1，授权日期：2025-01-24，申请日期：2024-12-25。  
 - **[P02] 一种机器人关节准直驱电机转矩波动抑制方法**  
-  张世武，张晓虎，张贺飞，高纬。发明专利，CN202410747271.7，实审中，申请日期：2024-06-11。  
+  张世武，`张晓虎`，张贺飞，高纬。发明专利，CN202410747271.7，实审中，申请日期：2024-06-11。  
 - **[P01] 基于振动诱导的用于遥操作系统的力反馈方法及装置**  
-  张世武，朱阅微，王腾达，高纬，张晓虎，谢远哲。发明专利，ZL202410471429.2，授权日期：2024-07-12，申请日期：2024-04-19。
+  张世武，朱阅微，王腾达，高纬，`张晓虎`，谢远哲。发明专利，ZL202410471429.2，授权日期：2024-07-12，申请日期：2024-04-19。
 
 <span class='anchor' id='-ryjx'></span>
 
 ## 🏅 荣誉奖项
 
-- **2023** 中国电机工程学报年度优秀论文  
+- **2023** `中国电机工程学报年度优秀论文`  
 - **2023 - 至今** 中国科学技术大学 一等奖学金  
 - **2019** 合肥工业大学 一等奖学金  
 - **2018** 全国高校智能交通创新与创业大赛 二等奖  
@@ -137,10 +137,10 @@ redirect_from:
 
 ## 🏛️ 学术会议
 
-- **阿联酋** 参加 IROS 2024 国际会议并做 Oral 报告  
-- **中国武汉** 参加 LDIA 2021 国际会议并做海报展示  
-- **中国合肥** 参加 2019 世界制造业大会  
-- **中国沈阳** 参加中国机器人学术年会 (CCRS 2019)  
+- **阿联酋** 参加 `IROS 2024` 国际会议并做 Oral 报告  
+- **中国武汉** 参加 `LDIA 2021` 国际会议并做海报展示  
+- **中国合肥** 参加 2019 `世界制造业大会`  
+- **中国沈阳** 参加中国机器人学术年会 (`CCRS 2019`)  
 
 <span class='anchor' id='-gzsx'></span>
 
