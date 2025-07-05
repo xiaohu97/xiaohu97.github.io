@@ -20,7 +20,7 @@ redirect_from:
 ## 关于我
 
 我是一名专注于人形机器人和电机控制的研究者，致力于将先进的控制理论应用于机器人系统。我的研究兴趣包括参数辨识、状态估计和直线电机驱动，期待为机器人技术的发展贡献力量。
-我将博士毕业于安徽合肥的 <a href="https://www.ustc.edu.cn/">中国科学技术大学</a> 工程科学学院/人形机器人研究院，我的导师是张世武教授。本科毕业于安徽合肥的 <a href="https://www.hfut.edu.cn/">合肥工业大学</a> 自动化专业。包括合著，我已发表多篇学术论文，具体见下方论文列表。
+我将博士毕业于安徽合肥的 <a href="https://www.ustc.edu.cn/">中国科学技术大学</a> 工程科学学院/人形机器人研究院，我的导师是张世武教授和高纬老师。本科毕业于安徽合肥的 <a href="https://www.hfut.edu.cn/">合肥工业大学</a> 自动化专业。包括合著，我已发表多篇学术论文，具体见下方论文列表。
 
 **研究领域：**
 - 人形机器人
@@ -86,7 +86,7 @@ redirect_from:
 - **`X. Zhang`, J. Zhao et al.**  
   "Joint Kalman Observer for Mechanical Multi-parameter Decoupling Estimation of Permanent Magnet Synchronous Linear Motor," *2021 13th International Symposium on Linear Drives for Industry Applications (LDIA)*, 2021.  
   (EI)  
-  [[网页]](https://doi.org/10.1109/LDIA49489.2021.9505892)
+  [[网页]]([https://doi.org/10.1109/LDIA49489.2021.9505892](https://ieeexplore.ieee.org/document/9505720))
 
 </div>
 </div>
