@@ -114,6 +114,16 @@ redirect_from:
 - *待补充*
 ---
 
+### 工程项目
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">全尺寸人形机器人.</div><img src='images/huge踢机器人.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- **`张晓虎`, both ，pocket 等**  
+  "基于MPC+WBC的全尺寸人形机器人运动控制" 全程参与人形机器人机械部分迭代优化、电气系统设计、下位机通信接口、传统控制算法优化, 2024-至今.  
+</div>
+</div>
+- *待补充*
+---
+
 ### 专利
 
 - **[P03] 一种腿式机器人的移动控制方法**  
@@ -150,4 +160,5 @@ redirect_from:
 - **202509 ** 人形机器人企业，实习，安徽芜湖
 - **2022 - 2023 ** 中国科学技术大学先进技术研究院，研究实习员，安徽合肥  
 - *其他实习待补充（根据实际经历补充）*
+
 
