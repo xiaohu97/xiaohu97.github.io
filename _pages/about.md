@@ -19,13 +19,14 @@ redirect_from:
 
 ## 关于我
 
-我是一名专注于人形机器人和电机控制的研究者，致力于将先进的控制理论应用于机器人系统。我的研究兴趣包括参数辨识、状态估计和直线电机驱动，期待为机器人技术的发展贡献力量。
-我将博士毕业于安徽合肥的 <a href="https://www.ustc.edu.cn/">中国科学技术大学</a> 工程科学学院/人形机器人研究院，我的导师是张世武教授和高纬老师。本科毕业于安徽合肥的 <a href="https://www.hfut.edu.cn/">合肥工业大学</a> 自动化专业。包括合著，我已发表多篇学术论文，具体见下方论文列表。 <a href='https://scholar.google.com/citations?user=_lZNOiUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+我是一名专注于人形机器人和电机控制的在读博士研究生，致力于将先进的控制理论应用于机器人系统。我的研究兴趣包括人形机器人运控、参数辨识、状态估计和电机驱动，期待为机器人技术的发展贡献力量。
+我将博士毕业于安徽合肥的 <a href="https://www.ustc.edu.cn/">中国科学技术大学</a> 工程科学学院/人形机器人研究院，我的导师是张世武教授和高纬老师。本科和硕士毕业于安徽合肥的 <a href="https://www.hfut.edu.cn/">合肥工业大学</a> 自动化专业。包括合著，我已发表多篇学术论文，具体见下方论文列表。 <a href='https://scholar.google.com/citations?user=_lZNOiUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 **研究领域：**
 - 人形机器人
-- 电机控制
+- 关节电机控制
 - 控制理论与控制工程
+- 强化学习
 - 参数辨识与状态估计
 - 直线电机驱动
 
@@ -36,7 +37,7 @@ redirect_from:
 - **2023.09 - 至今**  
   <a href="https://www.ustc.edu.cn/"><img class="svg" src="/images/USTC_logo.svg" width="23pt"></a> 中国科学技术大学 工程学院/人形机器人研究院，安徽合肥，博士研究生  
 - **2019.09 - 2022.06**  
-  <a href="https://www.ustc.edu.cn/"><img class="svg" src="/images/USTC_logo.svg" width="23pt"></a> 合肥工业大学 控制科学与工程，安徽合肥，硕士（工学硕士）  
+  <a href="https://www.hfut.edu.cn/"><img class="svg" src="/images/USTC_logo.svg" width="23pt"></a> 合肥工业大学 控制科学与工程，安徽合肥，硕士（工学硕士）  
 - **2015.09 - 2019.07**  
   <a href="https://www.hfut.edu.cn/"><img class="svg" src="/images/HFUT_logo.svg" width="20pt"></a> 合肥工业大学 自动化，安徽合肥，本科（工学学士）
 
@@ -48,8 +49,9 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS. 2024</div><img src='images/IROS2024_GraphicalAbstract_3405.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **H. Zhang#,`X. Zhang#`, J. Cheng, J. Hu, C. Ji, Y. Wang, Y. Jiang, Z. Han, W. Gao* and S. Zhang***  
-  "Torque Ripple Reduction in Quasi-Direct Drive Motors Through Angle-Based Repetitive Learning Observer and Model Predictive Torque Controller," *2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, pp. XXX-XXX.  
+  "Torque Ripple Reduction in Quasi-Direct Drive Motors Through Angle-Based Repetitive Learning Observer and Model Predictive Torque Controller," *2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*,  Abu Dhabi, United Arab Emirates, pp. 3546-3552.  
   (机器人顶会，EI)
+  [[网页]](https://ieeexplore.ieee.org/document/10801721)
 </div>
 </div>
 ---
@@ -137,9 +139,10 @@ redirect_from:
 
 ## 🏅 荣誉奖项
 
+- **2025** 安徽省大学生创新大赛`金奖` 
 - **2023** `中国电机工程学报年度优秀论文`  
 - **2023 - 至今** 中国科学技术大学 奖学金  
-- **2019** 合肥工业大学 一等奖学金  
+- **2022** 合肥工业大学 一等奖学金  
 - **2018** 全国高校智能交通创新与创业大赛 二等奖  
 - *其他奖项待补充（根据实际获奖情况补充）*
 
@@ -160,5 +163,6 @@ redirect_from:
 - **202509 ** 人形机器人企业，实习，安徽芜湖
 - **2022 - 2023 ** 中国科学技术大学先进技术研究院，研究实习员，安徽合肥  
 - *其他实习待补充（根据实际经历补充）*
+
 
 
