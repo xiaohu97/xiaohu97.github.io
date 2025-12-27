@@ -45,6 +45,16 @@ redirect_from:
 
 ## 📝 论文与专利
 
+### 中文论文
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国电机工程学报.</div><img src='images/观测器结构-英文概述.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- **`张晓虎`, 赵吉文 等**  
+  "基于自适应互联扩展卡尔曼观测器的永磁同步直线电机高精度抗干扰在线多参数辨识," *中国电机工程学报*, 2022, 42(12): 4571-4581.  
+  (`中国电机工程学报年度优秀论文（TOP5%）`，`中国知网高影响力论文`，EI)  
+</div>
+</div>
+---
+
 ### 英文论文
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS. 2024</div><img src='images/IROS2024_GraphicalAbstract_3405.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,33 +66,7 @@ redirect_from:
 </div>
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Power Electron. 2022</div><img src='images/微信截图_20250418203813.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- **L. Wang, J. Zhao, X. Yang, Z. Zheng, `X. Zhang`, L. Wang**  
-  "Robust Deadbeat Predictive Current Regulation for Permanent Magnet Synchronous Linear Motor Drivers With Parallel Parameter Disturbance and Load Observer," *IEEE Transactions on Power Electronics*, 2022, 37(7): 7834-7845.  
-  (中科院 TOP, IF: 5.967)  
-  [[网页]](https://doi.org/10.1109/TPEL.2022.3142119)
-
-</div>
-</div>
-
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Instrum. Meas. 2022</div><img src='images/ieee_tim2022.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- **D. Hu, J. Zhao, X. Yang, `X. Zhang`**  
-  "Precision Motion Measurement for Linear Motor Based on FNCC and Phase Difference M-Estimator Robust Regression in a VLSM System," *IEEE Transactions on Instrumentation and Measurement*, 2022, 70: 5017310.  
-  (SCI, IF: 5.332)  
-  [[网页]](https://doi.org/10.1109/TIM.2021.3125706)
-
-</div>
-</div>
-
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LDIA 2021</div><img src='images/微信截图_20250418203719.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LDIA 2021</div><img src='images/12月27日.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **`X. Zhang`, J. Zhao et al.**  
@@ -104,17 +88,30 @@ redirect_from:
 
 </div>
 </div>
-
-### 中文论文
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国电机工程学报.</div><img src='images/观测器结构-英文概述.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- **`张晓虎`, 赵吉文 等**  
-  "基于自适应互联扩展卡尔曼观测器的永磁同步直线电机高精度抗干扰在线多参数辨识," *中国电机工程学报*, 2022, 42(12): 4571-4581.  
-  (`中国电机工程学报年度优秀论文（TOP5%）`，`中国知网高影响力论文`，EI)  
-</div>
-</div>
-- *待补充*
 ---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Power Electron.</div><img src='images/微信截图_20250418203813.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- **L. Wang, J. Zhao, X. Yang, Z. Zheng, `X. Zhang`, L. Wang**  
+  "Robust Deadbeat Predictive Current Regulation for Permanent Magnet Synchronous Linear Motor Drivers With Parallel Parameter Disturbance and Load Observer," *IEEE Transactions on Power Electronics*, 2022, 37(7): 7834-7845.  
+  (中科院 TOP, IF: 5.967)  [[网页]](https://doi.org/10.1109/TPEL.2022.3142119)
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Instrum. Meas. 2022</div><img src='images/ieee_tim2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- **D. Hu, J. Zhao, X. Yang, `X. Zhang`**  
+  "Precision Motion Measurement for Linear Motor Based on FNCC and Phase Difference M-Estimator Robust Regression in a VLSM System," *IEEE Transactions on Instrumentation and Measurement*, 2022, 70: 5017310.  
+  (SCI, IF: 5.332)  
+  [[网页]](https://doi.org/10.1109/TIM.2021.3125706)
+
+</div>
+</div>
 
 ### 工程项目
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">全尺寸人形机器人.</div><img src='images/huge踢机器人.gif' alt="sym" width="100%"></div></div>
@@ -163,6 +160,7 @@ redirect_from:
 - **202509 ** 人形机器人企业，实习，安徽芜湖
 - **2022 - 2023 ** 中国科学技术大学先进技术研究院，研究实习员，安徽合肥  
 - *其他实习待补充（根据实际经历补充）*
+
 
 
 
