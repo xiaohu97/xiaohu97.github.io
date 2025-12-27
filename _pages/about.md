@@ -76,7 +76,16 @@ redirect_from:
 
 </div>
 </div>
+---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Conf.</div><img src='images/遥操作.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+- **X. Wang, Y. Zhu ，`X. Zhang`et al.**  
+  "A Telepresence Enhancing Method Based on Human Arm Dynamics," *2024 IEEE International Conference on Robotics and Biomimetics (ROBIO)*, 2024.  
+  (EI)  [[网页]](https://ieeexplore.ieee.org/abstract/document/10907667) 在这个项目里负责硬件系统设计、也是第一次学习和实现了stm32和esp32电路PCB设计加工，记录一下。
+
+</div>
+</div>
 ---
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Ind. Informat.</div><img src='images/isa2020.svg' alt="sym" width="100%"></div></div>
@@ -160,6 +169,7 @@ redirect_from:
 - **202509 ** 人形机器人企业，实习，安徽芜湖
 - **2022 - 2023 ** 中国科学技术大学先进技术研究院，研究实习员，安徽合肥  
 - *其他实习待补充（根据实际经历补充）*
+
 
 
 
