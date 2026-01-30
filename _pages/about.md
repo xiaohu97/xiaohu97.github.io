@@ -14,7 +14,9 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
+<div style="text-align: right;">
+  <strong>[中文]</strong> | <a href="/en/">[English]</a>
+</div>
 <span class='anchor' id='about-me'></span>
 
 ## 关于我
@@ -169,6 +171,7 @@ redirect_from:
 - **202509 ** 人形机器人企业，实习，安徽芜湖
 - **2022 - 2023 ** 中国科学技术大学先进技术研究院，研究实习员，安徽合肥  
 - *其他实习待补充（根据实际经历补充）*
+
 
 
 
