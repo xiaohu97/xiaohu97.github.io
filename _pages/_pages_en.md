@@ -43,7 +43,7 @@ I have published several academic papers (including co-authored works), which ar
   *Ph.D. Student*
 
 - **2019.09 - 2022.06**
-  <a href="http://en.hfut.edu.cn/"><img class="svg" src="/images/USTC_logo.svg" width="23pt"></a> **Hefei University of Technology (HFUT)**, Hefei, China
+  <a href="http://en.hfut.edu.cn/"><img class="svg" src="/images/HFUT_logo.svg" width="23pt"></a> **Hefei University of Technology (HFUT)**, Hefei, China
   *Master of Engineering (Control Science and Engineering)*
 
 - **2015.09 - 2019.07**

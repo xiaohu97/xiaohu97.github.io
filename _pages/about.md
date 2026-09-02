@@ -37,7 +37,7 @@ redirect_from:
 - **2023.09 - 至今**  
   <a href="https://www.ustc.edu.cn/"><img class="svg" src="/images/USTC_logo.svg" width="23pt"></a> 中国科学技术大学 工程学院/人形机器人研究院，安徽合肥，博士研究生  
 - **2019.09 - 2022.06**  
-  <a href="https://www.hfut.edu.cn/"><img class="svg" src="/images/USTC_logo.svg" width="23pt"></a> 合肥工业大学 控制科学与工程，安徽合肥，硕士（工学硕士）  
+  <a href="https://www.hfut.edu.cn/"><img class="svg" src="/images/HFUT_logo.svg" width="23pt"></a> 合肥工业大学 控制科学与工程，安徽合肥，硕士（工学硕士）  
 - **2015.09 - 2019.07**  
   <a href="https://www.hfut.edu.cn/"><img class="svg" src="/images/HFUT_logo.svg" width="20pt"></a> 合肥工业大学 自动化，安徽合肥，本科（工学学士）
 
@@ -72,7 +72,7 @@ redirect_from:
 - **`X. Zhang`, J. Zhao et al.**  
   "Joint Kalman Observer for Mechanical Multi-parameter Decoupling Estimation of Permanent Magnet Synchronous Linear Motor," *2021 13th International Symposium on Linear Drives for Industry Applications (LDIA)*, 2021.  
   (EI)  
-  [[网页]]([https://doi.org/10.1109/LDIA49489.2021.9505892](https://ieeexplore.ieee.org/document/9505720))
+  [[网页]](https://ieeexplore.ieee.org/document/9505720)
 
 </div>
 </div>
@@ -166,10 +166,9 @@ redirect_from:
 
 ## 💻 工作实习
 
-- **202509 ** 人形机器人企业，实习，安徽芜湖
+- **2025.09** 人形机器人企业，实习，安徽芜湖
 - **2022 - 2023 ** 中国科学技术大学先进技术研究院，研究实习员，安徽合肥  
 - *其他实习待补充（根据实际经历补充）*
-
 
 
 

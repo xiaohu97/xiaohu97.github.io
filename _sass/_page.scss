@@ -412,7 +412,7 @@
 }
 
 .footer_site{
-  padding-top: 9em;
+  padding-top: clamp(3rem, 8vw, 6rem);
   align-items: center;
 }
 .page_a {
