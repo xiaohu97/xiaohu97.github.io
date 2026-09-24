@@ -104,12 +104,21 @@ redirect_from:
 </div>
 </div>
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Conf.</div><img src='images/遥操作.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-text' style="max-width:100%; width:100%;" markdown="1">
+- **J. Hu, W. Gao, `X. Zhang`, J. Cheng and S. Zhang**  
+  "Predictive Control of a Spined Quadrupedal Robot Based on a Dual Rigid-Body Model," *2024 IEEE International Conference on Robotics and Biomimetics (ROBIO)*, pp. 292-298, 2024.  
+  (EI)  [[网页]](https://ieeexplore.ieee.org/document/10907590)
+</div>
+</div>
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2024</div><img src='images/遥操作.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **X. Wang, Y. Zhu ，`X. Zhang`et al.**  
-  "A Telepresence Enhancing Method Based on Human Arm Dynamics," *2024 IEEE International Conference on Robotics and Biomimetics (ROBIO)*, 2024.  
-  (EI)  [[网页]](https://ieeexplore.ieee.org/abstract/document/10907667) 在这个项目里负责硬件系统设计，过程中也是第一次学习并完成stm32和esp32两版电路PCB设计加工，记录一下。
+- **T. Wang, Y. Zhu, `X. Zhang`, W. Gao and S. Zhang**  
+  "A Telepresence Enhancing Method Based on Human Arm Dynamics," *2024 IEEE International Conference on Robotics and Biomimetics (ROBIO)*, pp. 1415-1421, 2024.  
+  (EI)  [[网页]](https://ieeexplore.ieee.org/document/10907667) 在这个项目里负责硬件系统设计，过程中也是第一次学习并完成 stm32 和 esp32 两版电路 PCB 设计加工，记录一下。
 
 </div>
 </div>
