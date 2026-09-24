@@ -104,8 +104,8 @@ redirect_from:
 </div>
 </div>
 ---
-<div class='paper-box'>
-<div class='paper-box-text' style="max-width:100%; width:100%;" markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2024 · Quadspine</div><video autoplay muted loop playsinline controls preload="metadata" style="width:100%;max-width:400px;box-shadow:3px 3px 6px #888;display:block;"><source src="images/quadspine.mp4" type="video/mp4">Your browser does not support the video tag.</video></div></div>
+<div class='paper-box-text' markdown="1">
 - **J. Hu, W. Gao, `X. Zhang`, J. Cheng and S. Zhang**  
   "Predictive Control of a Spined Quadrupedal Robot Based on a Dual Rigid-Body Model," *2024 IEEE International Conference on Robotics and Biomimetics (ROBIO)*, pp. 292-298, 2024.  
   (EI)  [[网页]](https://ieeexplore.ieee.org/document/10907590)
