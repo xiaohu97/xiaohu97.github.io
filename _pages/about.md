@@ -56,6 +56,33 @@ redirect_from:
 ---
 
 ### 英文论文
+<div class='paper-box'>
+<div class='paper-box-text' style="max-width:100%; width:100%;" markdown="1">
+- **T. Huang, M. Zhao, Y. Gao, F. Yuan, J. Gu, `X. Zhang`, D. Zhao, S. Yan, Y. Wang, W. Gao and S. Zhang**  
+  "Bionic Human-Motion Style Transfer for Physically Executable Whole-Body Control of Humanoid Robots," *arXiv preprint arXiv:2606.03536*, 2026.  
+  [[arXiv]](https://arxiv.org/abs/2606.03536)
+</div>
+</div>
+---
+
+<div class='paper-box'>
+<div class='paper-box-text' style="max-width:100%; width:100%;" markdown="1">
+- **T. Huang, F. Yuan, J. Gu, S. Fang, `X. Zhang`, Y. Wang, W. Gao and S. Zhang**  
+  "Human2Humanoid: Physics-Aware Cross-Morphology Motion Retargeting for Humanoid Robots," *arXiv preprint arXiv:2606.03476*, 2026.  
+  [[arXiv]](https://arxiv.org/abs/2606.03476)
+</div>
+</div>
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026 · SKATER</div><video autoplay muted loop playsinline controls preload="metadata" style="width:100%;max-width:400px;box-shadow:3px 3px 6px #888;display:block;"><source src="images/SKATER.mp4" type="video/mp4">Your browser does not support the video tag.</video></div></div>
+<div class='paper-box-text' markdown="1">
+- **J. Gu, F. Yuan, W. Shi, T. Huang, H. Zhang, `X. Zhang`, Y. Wang, W. Gao and S. Zhang**  
+  "SKATER: Synthesized Kinematics for Advanced Traversing Efficiency on a Humanoid Robot via Roller Skate Swizzles," *arXiv preprint arXiv:2601.04948*, 2026.  
+  [[arXiv]](https://arxiv.org/abs/2601.04948)
+</div>
+</div>
+---
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS. 2024</div><img src='images/IROS2024_GraphicalAbstract_3405.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **H. Zhang#,`X. Zhang#`, J. Cheng, J. Hu, C. Ji, Y. Wang, Y. Jiang, Z. Han, W. Gao* and S. Zhang***  
