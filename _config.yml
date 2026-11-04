@@ -10,6 +10,8 @@ title                    : "张晓虎"
 description              : "人形机器人移动操作/电机控制"
 repository               : "xiaohu97/xiaohu97.github.io"
 google_scholar_stats_use_cdn : true
+# 英文版主页（独立仓库 xiaohu97/engish）
+english_url              : "https://xiaohu97.github.io/engish/"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -22,14 +24,18 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "张晓虎"
-  avatar           : "images/张晓虎证件照2023.jpg"
+  avatar           : "/images/avatar.jpg"
   bio              : "中国科学技术大学"
   location         : "安徽 合肥"
+  name_en          : "Xiaohu Zhang"
+  bio_en           : "University of Science and Technology of China"
+  location_en      : "Hefei, Anhui, China"
+  description_en   : "Humanoid Loco-Manipulation & Motor Control"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=_lZNOiUAAAAJ"
   email            : "ustc-zxh@mail.ustc.edu.cn"
-  researchgate     : ""
+  researchgate     :
   uri              : 
   bitbucket        :
   codepen          :
