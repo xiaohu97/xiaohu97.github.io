@@ -10,7 +10,8 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body data-theme="{{ site.theme_style | default: 'classic' }}">
+    <script src="{{ '/assets/js/bg.js' | relative_url }}"></script>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}

@@ -10,6 +10,9 @@ title                    : "张晓虎"
 description              : "人形机器人移动操作/电机控制"
 repository               : "xiaohu97/xiaohu97.github.io"
 google_scholar_stats_use_cdn : true
+# 页面背景主题：classic（经典浅色）| galaxy（星系）| network（神经网络）| aurora（极光）| blueprint（工程蓝图）
+# 也可以在网址后加 ?theme=galaxy 临时预览
+theme_style              : classic
 # 英文版主页（独立仓库 xiaohu97/engish）
 english_url              : "https://xiaohu97.github.io/engish/"
 

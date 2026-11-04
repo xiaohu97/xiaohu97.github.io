@@ -1,0 +1,190 @@
+/* ==========================================================================
+   Background themes (chosen by theme_style in _config.yml or ?theme=, see assets/js/bg.js)
+   ========================================================================== */
+
+.bg-canvas,
+.bg-aurora {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+}
+
+// keep content above the background layer
+.theme-galaxy, .theme-network, .theme-aurora, .theme-blueprint {
+  #main, .footer_site { position: relative; z-index: 1; }
+}
+
+/* ---------- light glass cards (network / aurora) ---------- */
+.theme-network, .theme-aurora {
+  .paper-box { background: rgba(255, 255, 255, .88); }
+  .footer_site { background: rgba(255, 255, 255, .7); }
+}
+
+/* ---------- network ---------- */
+html:has(body.theme-network), body.theme-network { background: #f4f7fc; }
+
+/* ---------- aurora ---------- */
+html:has(body.theme-aurora), body.theme-aurora { background: #f6f8fc; }
+
+.bg-aurora {
+  overflow: hidden;
+  opacity: .7;
+
+  span {
+    position: absolute;
+    border-radius: 50%;
+    will-change: transform;
+    animation: aurora-move 26s ease-in-out infinite alternate;
+  }
+  span:nth-child(1) { width: 70vw; height: 70vw; left: -20vw; top: -25vw; background: radial-gradient(circle, rgba(130, 175, 255, .75), rgba(130, 175, 255, 0) 65%); }
+  span:nth-child(2) { width: 60vw; height: 60vw; right: -20vw; top: 0; background: radial-gradient(circle, rgba(190, 165, 255, .7), rgba(190, 165, 255, 0) 65%); animation-duration: 32s; animation-delay: -8s; }
+  span:nth-child(3) { width: 65vw; height: 65vw; left: 20vw; bottom: -35vw; background: radial-gradient(circle, rgba(130, 225, 205, .7), rgba(130, 225, 205, 0) 65%); animation-duration: 38s; animation-delay: -15s; }
+}
+
+@keyframes aurora-move {
+  0%   { transform: translate(0, 0) scale(1); }
+  50%  { transform: translate(8vw, 6vh) scale(1.12); }
+  100% { transform: translate(-6vw, 10vh) scale(.92); }
+}
+
+/* ---------- shared dark styles (galaxy / blueprint) ---------- */
+$dk-text    : #c9d4e5;
+$dk-strong  : #f1f5fb;
+$dk-muted   : #8a9ab3;
+$dk-link    : #8ab4ff;
+$dk-line    : rgba(255, 255, 255, .1);
+$dk-card    : rgba(14, 20, 42, .78);
+$dk-chip-bg : rgba(138, 180, 255, .14);
+$dk-chip    : #b5cdff;
+
+.theme-dark {
+  color: $dk-text;
+
+  ::selection { background: #3b6fd8; }
+
+  .masthead {
+    background-color: rgba(8, 12, 28, .62);
+    border-bottom-color: $dk-line;
+  }
+  .greedy-nav {
+    a { color: #b8c4d9; }
+    a:hover { color: #fff; }
+    .visible-links a:before { background: $dk-link; }
+    .lang-switch { color: $dk-link; border-color: rgba(138, 180, 255, .35); }
+    .lang-switch:hover { background: rgba(138, 180, 255, .12); color: #fff; }
+    .hidden-links { background: #121a33; border-color: $dk-line; }
+    .hidden-links:before, .hidden-links:after { border-color: #121a33 transparent; }
+    .hidden-links a { color: $dk-text; }
+  }
+
+  .sidebar .author__name, .author__name { color: $dk-strong; }
+  .author__bio { color: $dk-muted; }
+  .author__desc { color: $dk-link; }
+  .author__urls, .author__urls_sm { color: $dk-text; }
+  @media (max-width: #{$large - 1px}) {
+    .author__urls { background: #121a33; border-color: $dk-line; }
+    .author__urls:after { border-color: #121a33 transparent; }
+  }
+  .author__urls .fa-github, .author__urls_sm .fa-github { color: $dk-strong; }
+  .author__urls a:hover, .author__urls_sm a:hover { color: #fff; }
+  .author__avatar img {
+    background: rgba(255, 255, 255, .06);
+    border-color: rgba(255, 255, 255, .16);
+    box-shadow: 0 0 0 4px rgba(138, 180, 255, .08), 0 8px 30px rgba(0, 0, 0, .45);
+  }
+
+  .page__content {
+    a { color: $dk-link; border-bottom-color: rgba(138, 180, 255, .3); }
+    a:hover { color: #fff; border-bottom-color: #fff; }
+
+    h2 { color: $dk-strong; border-bottom-color: $dk-line; }
+    h2:after { background: $dk-link; }
+    h3 { color: $dk-strong; border-left-color: $dk-link; }
+    strong { color: $dk-strong; }
+
+    p > code, li > code, strong > code { background: $dk-chip-bg; color: $dk-chip; border-color: transparent; }
+  }
+
+  .research-tags span {
+    background: rgba(138, 180, 255, .08);
+    border-color: rgba(138, 180, 255, .28);
+    color: $dk-chip;
+  }
+
+  .page__content ul.timeline {
+    &:before { background: rgba(138, 180, 255, .25); }
+    > li:before { background: #0b1022; border-color: $dk-link; }
+    > li > strong:first-child { color: $dk-link; }
+    .fa-university { color: $dk-link; }
+  }
+
+  .paper-box {
+    background: $dk-card;
+    border-color: $dk-line;
+    box-shadow: none;
+
+    &:hover {
+      border-color: rgba(138, 180, 255, .35);
+      box-shadow: 0 10px 30px rgba(0, 0, 0, .35), 0 0 0 1px rgba(138, 180, 255, .12);
+    }
+    .paper-box-image > div { background: rgba(255, 255, 255, .06); box-shadow: 0 4px 14px rgba(0, 0, 0, .4); }
+    .paper-box-text li > strong:first-child,
+    .paper-box-text li > p > strong:first-child { color: $dk-strong; }
+    .paper-box-text em { color: $dk-muted; }
+  }
+
+  .venue { background: #3b6fd8; }
+  .badge { background-color: rgba(20, 32, 70, .88); border: 1px solid rgba(138, 180, 255, .3); }
+
+  .page__content a.paper-link {
+    background: rgba(138, 180, 255, .1);
+    border-color: rgba(138, 180, 255, .3);
+    color: $dk-link;
+    &:hover { background: $dk-link; border-color: $dk-link; color: #0b1022; }
+  }
+
+  .paper-note {
+    background: rgba(240, 180, 41, .1);
+    border-left-color: #f0b429;
+    color: #f3d58a;
+  }
+
+  .footer_site { background: rgba(8, 12, 28, .6); border-top-color: $dk-line; color: $dk-muted; }
+  .page_a { color: $dk-link; }
+  hr { border-color: $dk-line; }
+}
+
+/* ---------- galaxy ---------- */
+html:has(body.theme-galaxy), body.theme-galaxy {
+  background-color: #05070f;
+}
+body.theme-galaxy {
+  background-image:
+    radial-gradient(ellipse 60% 45% at 85% 10%, rgba(88, 60, 180, .28), transparent 70%),
+    radial-gradient(ellipse 55% 40% at 10% 85%, rgba(20, 90, 170, .25), transparent 70%),
+    radial-gradient(ellipse 40% 30% at 45% 45%, rgba(160, 60, 140, .10), transparent 70%);
+  background-attachment: fixed;
+}
+
+/* ---------- blueprint ---------- */
+html:has(body.theme-blueprint), body.theme-blueprint { background-color: #0b2447; }
+body.theme-blueprint {
+  background-image:
+    linear-gradient(rgba(255, 255, 255, .07) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, .07) 1px, transparent 1px),
+    linear-gradient(rgba(255, 255, 255, .03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, .03) 1px, transparent 1px),
+    radial-gradient(ellipse 80% 60% at 50% 0%, #15396b, #0b2447 70%);
+  background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px, 100% 100%;
+  background-attachment: fixed;
+
+  .masthead { background-color: rgba(9, 30, 60, .75); }
+  .paper-box { background: rgba(11, 36, 71, .72); border-color: rgba(160, 200, 255, .18); }
+  .page__content h2 { font-family: $monospace; letter-spacing: .02em; }
+  .footer_site { background: rgba(9, 30, 60, .75); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .bg-aurora span { animation: none; }
+}
