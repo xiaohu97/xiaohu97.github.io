@@ -11,7 +11,7 @@
 }
 
 // keep content above the background layer
-.theme-galaxy, .theme-network, .theme-aurora, .theme-blueprint {
+.theme-cosmos, .theme-galaxy, .theme-network, .theme-aurora, .theme-blueprint {
   #main, .footer_site { position: relative; z-index: 1; }
 }
 
@@ -156,10 +156,11 @@ $dk-chip    : #b5cdff;
 }
 
 /* ---------- galaxy ---------- */
-html:has(body.theme-galaxy), body.theme-galaxy {
+html:has(body.theme-galaxy), body.theme-galaxy,
+html:has(body.theme-cosmos), body.theme-cosmos {
   background-color: #05070f;
 }
-body.theme-galaxy {
+body.theme-galaxy, body.theme-cosmos {
   background-image:
     radial-gradient(ellipse 60% 45% at 85% 10%, rgba(88, 60, 180, .28), transparent 70%),
     radial-gradient(ellipse 55% 40% at 10% 85%, rgba(20, 90, 170, .25), transparent 70%),
